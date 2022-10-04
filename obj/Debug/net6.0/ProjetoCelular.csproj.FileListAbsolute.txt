@@ -1,0 +1,15 @@
+C:\ProjetoCelular\obj\Debug\net6.0\ProjetoCelular.csproj.AssemblyReference.cache
+C:\ProjetoCelular\obj\Debug\net6.0\ProjetoCelular.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetoCelular\obj\Debug\net6.0\ProjetoCelular.AssemblyInfoInputs.cache
+C:\ProjetoCelular\obj\Debug\net6.0\ProjetoCelular.AssemblyInfo.cs
+C:\ProjetoCelular\obj\Debug\net6.0\ProjetoCelular.csproj.CoreCompileInputs.cache
+C:\ProjetoCelular\bin\Debug\net6.0\ProjetoCelular.exe
+C:\ProjetoCelular\bin\Debug\net6.0\ProjetoCelular.deps.json
+C:\ProjetoCelular\bin\Debug\net6.0\ProjetoCelular.runtimeconfig.json
+C:\ProjetoCelular\bin\Debug\net6.0\ProjetoCelular.dll
+C:\ProjetoCelular\bin\Debug\net6.0\ProjetoCelular.pdb
+C:\ProjetoCelular\obj\Debug\net6.0\ProjetoCelular.dll
+C:\ProjetoCelular\obj\Debug\net6.0\refint\ProjetoCelular.dll
+C:\ProjetoCelular\obj\Debug\net6.0\ProjetoCelular.pdb
+C:\ProjetoCelular\obj\Debug\net6.0\ProjetoCelular.genruntimeconfig.cache
+C:\ProjetoCelular\obj\Debug\net6.0\ref\ProjetoCelular.dll
